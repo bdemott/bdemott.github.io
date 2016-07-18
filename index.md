@@ -1,5 +1,6 @@
 ---
 title: Brian's Website
+layout: default
 ---
 
 # Hello World
